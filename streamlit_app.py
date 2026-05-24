@@ -18,7 +18,10 @@ with st.form("my_form"):
             "Yellow",
             "Green",
             "Blue",
-            "Purple"
+            "Purple",
+            "Yellow",
+            "Turqoise",
+            "Cyan,
         ]
     )
     
