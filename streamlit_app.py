@@ -21,7 +21,7 @@ with st.form("my_form"):
             "Purple",
             "Yellow",
             "Turqoise",
-            "Cyan,
+            "Cyan",
         ]
     )
     
