@@ -20,3 +20,6 @@ st.write("I just gave a " + noun + " twenty " + adjective + " dollars and he " +
 pressed = st.button("Press me!")
 if pressed:
     st.write("Why did you do that?")
+pressed = st.button("Press me?")
+if pressed:
+    st.write("You were cursed with happiness?")
